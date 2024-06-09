@@ -1,0 +1,21 @@
+h1 {
+            color: green;
+            font-weight: bold;
+        }
+        h2 {
+            text-align: center;
+        }
+        .blue {
+            color: blue;
+        }
+        .avatar {
+            float: left;
+            margin-right: 15px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+        .comment-section {
+            margin-top: 20px;
+        }
